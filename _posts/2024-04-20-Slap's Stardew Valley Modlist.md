@@ -101,7 +101,7 @@ This post will list all the mods that were used in Slap Farm next playthrough an
 | 79 | [SpaceCore](https://www.nexusmods.com/stardewvalley/mods/1348) | Frameworks |
 | 80 | [Stardew Valley Expanded](https://www.nexusmods.com/stardewvalley/mods/3753) | Expansions |
 | 81 | [StardewHack](https://www.nexusmods.com/stardewvalley/mods/3213) | Frameworks |
-| 82 | Sword & Sorcery | Expansions |
+| 82 | Sword & Sorcery[^footnote] | Expansions |
 | 83 | [The Last Smoluanu - A Dwarf Expansion.](https://www.nexusmods.com/stardewvalley/mods/9642) | Characters |
 | 84 | [The Ranch Expansion Marnie and Jas](https://www.nexusmods.com/stardewvalley/mods/5070) | Characters |
 | 85 | [Tractor Mod](https://www.nexusmods.com/stardewvalley/mods/1401) | Gameplay Mechanics |
@@ -111,7 +111,7 @@ This post will list all the mods that were used in Slap Farm next playthrough an
 | 89 | [Visible Fish - see catchable fish in the water](https://www.nexusmods.com/stardewvalley/mods/8897) | Visuals and Graphics |
 | 90 | [Wedding Reception Portraits for RSV](https://www.nexusmods.com/stardewvalley/mods/12848) | Visuals and Graphics |
 | -- | *From here, the listed mods are the ones that were added later.* | -- |
-| 91 | [Better Junimos](https://www.nexusmods.com/stardewvalley/mods/2221) | Gameplay Mechanics |
+| 91 | [Better Junimos](https://www.nexusmods.com/stardewvalley/mods/2221)[^fn-nth-2] | Gameplay Mechanics |
 
 ## Optional Mods
 
@@ -194,3 +194,8 @@ This post will list all the mods that were used in Slap Farm next playthrough an
 | 2 | [Even Better Artisan Good Icons for Cornucopia-MoreCrops](https://www.nexusmods.com/stardewvalley/mods/22377) | v2 | Retexture Mods | Conflict with MPS |
 | 3 | [Even Better Artisan Good Icons for Cornucopia-MoreFlowers](https://www.nexusmods.com/stardewvalley/mods/22437) | v2 | Retexture Mods | Conflict with MPS |
 | 4 | [Even Better Artisan Good Icons for SVE](https://www.nexusmods.com/stardewvalley/mods/9372) | v2 | Retexture Mods | Conflict with MPS |
+
+##  Footnote
+
+[^footnote]: **Alpha** version, available on East Scarp Discord.
+[^fn-nth-2]: Download **Beta** version on Miscellaneous Files.
