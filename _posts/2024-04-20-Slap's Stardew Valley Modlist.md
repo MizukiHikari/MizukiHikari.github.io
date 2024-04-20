@@ -8,7 +8,7 @@ image:
 
 ---
 
-This post will list all the mods that were used in Slap Farm next Playthrough and detail all the changes made during the playthrough!
+This post will list all the mods that were used in Slap Farm next playthrough and detail all the changes made during the playthrough!
 
 > Install SMAPI first -- <https://smapi.io/>
 {: .prompt-tip }
@@ -177,7 +177,7 @@ This post will list all the mods that were used in Slap Farm next Playthrough an
 ---
 ## Modlist Update
 
-> Each mod that added later will be listed here.
+> Each mod that added or removed will be listed here.
 {: .prompt-info }
 
 ### **Added Mods**
