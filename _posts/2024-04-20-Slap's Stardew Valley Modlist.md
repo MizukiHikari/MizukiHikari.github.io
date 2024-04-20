@@ -86,31 +86,32 @@ This post will list all the mods that were used in Slap Farm next playthrough an
 | 64 | [Nora The Herpetologist - Custom NPC for East Scarp](https://www.nexusmods.com/stardewvalley/mods/18176) | New Characters |
 | 65 | [NPC Map Locations](https://www.nexusmods.com/stardewvalley/mods/239) | User Interface |
 | 66 | [Oasis Greenhouse](https://www.nexusmods.com/stardewvalley/mods/3969) | Interiors |
-| 67 | [Prismatic Tools Continued](https://www.nexusmods.com/stardewvalley/mods/21450) | Gameplay Mechanics |
-| 68 | [Producer Framework Mod](https://www.nexusmods.com/stardewvalley/mods/4970) | Frameworks |
-| 69 | [Professor Jasper Thomas](https://www.nexusmods.com/stardewvalley/mods/5599) | New Characters |
-| 70 | [Ridgeside Village & The Music of Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286) | Expansions |
-| 71 | [Romanceable Rasmodius Redux Revamped(RRRR)(SVE Required)](https://www.nexusmods.com/stardewvalley/mods/16893) | Characters |
-| 72 | [Seasonal Cute Characters for East Scarp (Base, Jasper, Joja Clerks, Smoluanu)](https://www.nexusmods.com/stardewvalley/mods/16045) | Characters |
-| 73 | [Seasonal Outfits - Slightly Cuter Aesthetic](https://www.nexusmods.com/stardewvalley/mods/5450) | Characters |
-| 74 | [Seasonal Outfits - Slightly Cuter Aesthetic for SVE](https://www.nexusmods.com/stardewvalley/mods/5969) | Characters |
-| 75 | [Seasonal Outfits for Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/18202) | Characters |
-| 76 | [Skull Cavern Elevator](https://www.nexusmods.com/stardewvalley/mods/963) | Gameplay Mechanics |
-| 77 | [SMAPI](https://www.nexusmods.com/stardewvalley/mods/2400) | ModLoader |
-| 78 | [SpaceCore](https://www.nexusmods.com/stardewvalley/mods/1348) | Frameworks |
-| 79 | [Stardew Valley Expanded](https://www.nexusmods.com/stardewvalley/mods/3753) | Expansions |
-| 80 | [StardewHack](https://www.nexusmods.com/stardewvalley/mods/3213) | Frameworks |
-| 81 | Sword & Sorcery | Expansions |
-| 82 | [The Last Smoluanu - A Dwarf Expansion.](https://www.nexusmods.com/stardewvalley/mods/9642) | Characters |
-| 83 | [The Ranch Expansion Marnie and Jas](https://www.nexusmods.com/stardewvalley/mods/5070) | Characters |
-| 84 | [Tractor Mod](https://www.nexusmods.com/stardewvalley/mods/1401) | Gameplay Mechanics |
-| 85 | [Train Station](https://www.nexusmods.com/stardewvalley/mods/6183) | Gameplay Mechanics |
-| 86 | [UI Info Suite 2](https://github.com/Annosz/UIInfoSuite2/releases) | User Interface |
-| 87 | [Unique Children](https://www.nexusmods.com/stardewvalley/mods/6278) | Characters |
-| 88 | [Visible Fish - see catchable fish in the water](https://www.nexusmods.com/stardewvalley/mods/8897) | Visuals and Graphics |
-| 89 | [Wedding Reception Portraits for RSV](https://www.nexusmods.com/stardewvalley/mods/12848) | Visuals and Graphics |
+| 67 | [Part of the Community](https://www.nexusmods.com/stardewvalley/mods/923) | Gameplay Mechanics |
+| 68 | [Prismatic Tools Continued](https://www.nexusmods.com/stardewvalley/mods/21450) | Gameplay Mechanics |
+| 69 | [Producer Framework Mod](https://www.nexusmods.com/stardewvalley/mods/4970) | Frameworks |
+| 70 | [Professor Jasper Thomas](https://www.nexusmods.com/stardewvalley/mods/5599) | New Characters |
+| 71 | [Ridgeside Village & The Music of Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286) | Expansions |
+| 72 | [Romanceable Rasmodius Redux Revamped(RRRR)(SVE Required)](https://www.nexusmods.com/stardewvalley/mods/16893) | Characters |
+| 73 | [Seasonal Cute Characters for East Scarp (Base, Jasper, Joja Clerks, Smoluanu)](https://www.nexusmods.com/stardewvalley/mods/16045) | Characters |
+| 74 | [Seasonal Outfits - Slightly Cuter Aesthetic](https://www.nexusmods.com/stardewvalley/mods/5450) | Characters |
+| 75 | [Seasonal Outfits - Slightly Cuter Aesthetic for SVE](https://www.nexusmods.com/stardewvalley/mods/5969) | Characters |
+| 76 | [Seasonal Outfits for Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/18202) | Characters |
+| 77 | [Skull Cavern Elevator](https://www.nexusmods.com/stardewvalley/mods/963) | Gameplay Mechanics |
+| 78 | [SMAPI](https://www.nexusmods.com/stardewvalley/mods/2400) | ModLoader |
+| 79 | [SpaceCore](https://www.nexusmods.com/stardewvalley/mods/1348) | Frameworks |
+| 80 | [Stardew Valley Expanded](https://www.nexusmods.com/stardewvalley/mods/3753) | Expansions |
+| 81 | [StardewHack](https://www.nexusmods.com/stardewvalley/mods/3213) | Frameworks |
+| 82 | Sword & Sorcery | Expansions |
+| 83 | [The Last Smoluanu - A Dwarf Expansion.](https://www.nexusmods.com/stardewvalley/mods/9642) | Characters |
+| 84 | [The Ranch Expansion Marnie and Jas](https://www.nexusmods.com/stardewvalley/mods/5070) | Characters |
+| 85 | [Tractor Mod](https://www.nexusmods.com/stardewvalley/mods/1401) | Gameplay Mechanics |
+| 86 | [Train Station](https://www.nexusmods.com/stardewvalley/mods/6183) | Gameplay Mechanics |
+| 87 | [UI Info Suite 2](https://github.com/Annosz/UIInfoSuite2/releases) | User Interface |
+| 88 | [Unique Children](https://www.nexusmods.com/stardewvalley/mods/6278) | Characters |
+| 89 | [Visible Fish - see catchable fish in the water](https://www.nexusmods.com/stardewvalley/mods/8897) | Visuals and Graphics |
+| 90 | [Wedding Reception Portraits for RSV](https://www.nexusmods.com/stardewvalley/mods/12848) | Visuals and Graphics |
 | -- | *From here, the listed mods are the ones that were added later.* | -- |
-| 90 | [Better Junimos](https://www.nexusmods.com/stardewvalley/mods/2221) | Gameplay Mechanics |
+| 91 | [Better Junimos](https://www.nexusmods.com/stardewvalley/mods/2221) | Gameplay Mechanics |
 
 ## Optional Mods
 
@@ -134,12 +135,11 @@ This post will list all the mods that were used in Slap Farm next playthrough an
 | 11 | [Mini Bars - Healthbars Mod](https://www.nexusmods.com/stardewvalley/mods/8329) | User Interface |
 | 12 | [Noclip Mode](https://www.nexusmods.com/stardewvalley/mods/3900) | Cheats |
 | 13 | [Object Progress Bars Continued](https://www.nexusmods.com/stardewvalley/mods/22005) | User Interface |
-| 14 | [Part of the Community](https://www.nexusmods.com/stardewvalley/mods/923) | Gameplay Mechanics |
-| 15 | [Predictor](https://www.nexusmods.com/stardewvalley/mods/21332) | Cheats |
-| 16 | [Schedule Viewer](https://www.nexusmods.com/stardewvalley/mods/19305) | User Interface |
-| 17 | [Skip Intro](https://www.nexusmods.com/stardewvalley/mods/533) | User Interface |
-| 18 | [Yet Another Harvest With Scythe Mod](https://www.nexusmods.com/stardewvalley/mods/2731) | Gameplay Mechanics |
-| 19 | [Zoom Level](https://www.nexusmods.com/stardewvalley/mods/7363) | User Interface |
+| 14 | [Predictor](https://www.nexusmods.com/stardewvalley/mods/21332) | Cheats |
+| 15 | [Schedule Viewer](https://www.nexusmods.com/stardewvalley/mods/19305) | User Interface |
+| 16 | [Skip Intro](https://www.nexusmods.com/stardewvalley/mods/533) | User Interface |
+| 17 | [Yet Another Harvest With Scythe Mod](https://www.nexusmods.com/stardewvalley/mods/2731) | Gameplay Mechanics |
+| 18 | [Zoom Level](https://www.nexusmods.com/stardewvalley/mods/7363) | User Interface |
 
 ## Retexture Mods
 
@@ -184,13 +184,13 @@ This post will list all the mods that were used in Slap Farm next playthrough an
 
 | No | Mod Name | Added in | Category |
 |:---:|---|:---:|:---:|
-| 1 | [Better Junimos](https://www.nexusmods.com/stardewvalley/mods/2221) | v2 | Gameplay Mechanics |
+| 1 | [Better Junimos](https://www.nexusmods.com/stardewvalley/mods/2221) | v2 | Main Mods |
 
 ### **Removed Mods**
 
-| No | Mod Name | Category | Removed in | Notes |
+| No | Mod Name |  Removed in | Category | Notes |
 |:---:|---|:---:|:---:|:---:|
-| 1 | [Even Better Artisan Good Icons](https://github.com/chsiao58/EvenBetterArtisanGoodIcons/releases) | User Interface | v2 | Conflict with MPS |
-| 2 | [Even Better Artisan Good Icons for Cornucopia-MoreCrops](https://www.nexusmods.com/stardewvalley/mods/22377) | User Interface | v2 | Conflict with MPS |
-| 3 | [Even Better Artisan Good Icons for Cornucopia-MoreFlowers](https://www.nexusmods.com/stardewvalley/mods/22437) | User Interface | v2 | Conflict with MPS |
-| 4 | [Even Better Artisan Good Icons for SVE](https://www.nexusmods.com/stardewvalley/mods/9372) | User Interface | v2 | Conflict with MPS |
+| 1 | [Even Better Artisan Good Icons](https://github.com/chsiao58/EvenBetterArtisanGoodIcons/releases) | v2  | Retexture Mods | Conflict with MPS |
+| 2 | [Even Better Artisan Good Icons for Cornucopia-MoreCrops](https://www.nexusmods.com/stardewvalley/mods/22377) | v2 | Retexture Mods | Conflict with MPS |
+| 3 | [Even Better Artisan Good Icons for Cornucopia-MoreFlowers](https://www.nexusmods.com/stardewvalley/mods/22437) | v2 | Retexture Mods | Conflict with MPS |
+| 4 | [Even Better Artisan Good Icons for SVE](https://www.nexusmods.com/stardewvalley/mods/9372) | v2 | Retexture Mods | Conflict with MPS |
