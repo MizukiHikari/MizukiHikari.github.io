@@ -300,7 +300,7 @@ tags: [stardewvalley]     # TAG names should always be lowercase
 | 78 | [SpaceCore](https://www.nexusmods.com/stardewvalley/mods/1348) | Frameworks |
 | 79 | [Stardew Valley Expanded](https://www.nexusmods.com/stardewvalley/mods/3753) | Expansions |
 | 80 | [StardewHack](https://www.nexusmods.com/stardewvalley/mods/3213) | Frameworks |
-| 81 | [Sword & Sorcery](Alpha version. Available on East Scarp Discord.) | Expansions |
+| 81 | Sword & Sorcery | Expansions |
 | 82 | [The Last Smoluanu - A Dwarf Expansion.](https://www.nexusmods.com/stardewvalley/mods/9642) | Characters |
 | 83 | [The Ranch Expansion Marnie and Jas](https://www.nexusmods.com/stardewvalley/mods/5070) | Characters |
 | 84 | [Tractor Mod](https://www.nexusmods.com/stardewvalley/mods/1401) | Gameplay Mechanics |
