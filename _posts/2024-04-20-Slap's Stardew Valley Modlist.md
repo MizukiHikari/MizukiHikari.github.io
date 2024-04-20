@@ -184,7 +184,7 @@ This post will list all the mods that were used in Slap Farm next playthrough an
 
 | No | Mod Name | Added in | Category |
 |:---:|---|:---:|:---:|
-| 1 | [Better Junimos](https://www.nexusmods.com/stardewvalley/mods/2221) | v2 | Main Mods |
+| 1 | [Better Junimos](https://www.nexusmods.com/stardewvalley/mods/2221)[^fn-nth-2] | v2 | Main Mods |
 
 ### **Removed Mods**
 
@@ -197,5 +197,5 @@ This post will list all the mods that were used in Slap Farm next playthrough an
 
 ##  Footnote
 
-[^footnote]: **Alpha** version, available on East Scarp Discord.
-[^fn-nth-2]: Download **Beta** version on Miscellaneous Files.
+[^footnote]: **Alpha** version, on SDV East Scarp Community Discord (✨┇useful-files).
+[^fn-nth-2]: **Beta** version, on Nexus Mods (Miscellaneous files).
