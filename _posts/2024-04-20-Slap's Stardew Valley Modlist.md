@@ -109,7 +109,7 @@ This post will list all the mods that were used in Slap Farm next playthrough an
 | 87 | [Unique Children](https://www.nexusmods.com/stardewvalley/mods/6278) | Characters |
 | 88 | [Visible Fish - see catchable fish in the water](https://www.nexusmods.com/stardewvalley/mods/8897) | Visuals and Graphics |
 | 89 | [Wedding Reception Portraits for RSV](https://www.nexusmods.com/stardewvalley/mods/12848) | Visuals and Graphics |
-| -- | *From here, the listed mods are the ones that were added later.*_* | -- |
+| -- | *From here, the listed mods are the ones that were added later.* | -- |
 | 90 | [Better Junimos](https://www.nexusmods.com/stardewvalley/mods/2221) | Gameplay Mechanics |
 
 ## Optional Mods
