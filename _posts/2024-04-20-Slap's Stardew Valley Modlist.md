@@ -74,7 +74,7 @@ This post will list all the mods that were used in Slap Farm next playthrough an
 | 52 | [Lumisteria Tilesheets - Indoor](https://www.nexusmods.com/stardewvalley/mods/9599) | Tilesheets |
 | 53 | [Lumisteria Tilesheets - Outdoor](https://www.nexusmods.com/stardewvalley/mods/10448) | Tilesheets |
 | 54 | [Lunna - Astray in Stardew Valley](https://www.nexusmods.com/stardewvalley/mods/6626) | Expansions |
-| 55 | [Lurking in the Dark - NPC Sen (East Scarp)](https://www.nexusmods.com/stardewvalley/mods/10770) | New Characters |
+| 55 | ~~Lurking in the Dark - NPC Sen (East Scarp)~~ | New Characters |
 | 56 | [Machine Progression System](https://www.nexusmods.com/stardewvalley/mods/21720) | Gameplay Mechanics |
 | 57 | [Mail Framework Mod](https://www.nexusmods.com/stardewvalley/mods/1536) | Frameworks |
 | 58 | [Mapping Extensions and Extra Properties (MEEP)](https://www.nexusmods.com/stardewvalley/mods/14493) | Frameworks |
@@ -112,6 +112,17 @@ This post will list all the mods that were used in Slap Farm next playthrough an
 | 90 | [Wedding Reception Portraits for RSV](https://www.nexusmods.com/stardewvalley/mods/12848) | Visuals and Graphics |
 | -- | *From here, the listed mods are the ones that were added later.* | -- |
 | 91 | [Better Junimos](https://www.nexusmods.com/stardewvalley/mods/2221)[^fn-nth-2] | Gameplay Mechanics |
+| 92 | [Diamond in the Rough](https://github.com/7thAxis/Diamond-in-the-Rough) | New Characters |
+| 93 | [Always Raining in the Valley - Custom NPCs for East Scarp](https://www.nexusmods.com/stardewvalley/mods/9999) | New Characters |
+| 94 | [Fashion Sense](https://www.nexusmods.com/stardewvalley/mods/9969) | Modding Tools |
+| 95 | [Calcifer](https://www.nexusmods.com/stardewvalley/mods/20628) | Modding Tools |
+| 96 | [(CP) HxW Farmer's Market Furniture - Core](https://www.nexusmods.com/stardewvalley/mods/18814) | Furniture |
+| 97 | [(CP) HxW Farmers Market Furniture - Wildflour Set](https://www.nexusmods.com/stardewvalley/mods/21767) | Furniture |
+| 98 | [(CP) HxW Farmer's Market Furniture - Fishmonger and Butcher Set](https://www.nexusmods.com/stardewvalley/mods/9994) | Furniture |
+| 99 | [(CP) HxW Farmer's Market Furniture - Bakery Set](https://www.nexusmods.com/stardewvalley/mods/9992) | Furniture |
+| 100 | [(CP) HxW Greenhouse Furniture](https://www.nexusmods.com/stardewvalley/mods/16717) | Furniture |
+| 101 | [(CP) HxW Bathroom Furniture](https://www.nexusmods.com/stardewvalley/mods/17665) | Furniture |
+| 102 | [(CP) HxW Outdoor Furniture](https://www.nexusmods.com/stardewvalley/mods/16693) | Furniture |
 
 ## Optional Mods
 
@@ -185,6 +196,17 @@ This post will list all the mods that were used in Slap Farm next playthrough an
 | No | Mod Name | Added in | Category |
 |:---:|---|:---:|:---:|
 | 1 | [Better Junimos](https://www.nexusmods.com/stardewvalley/mods/2221)[^fn-nth-2] | v2 | Main Mods |
+| 2 | [Diamond in the Rough](https://github.com/7thAxis/Diamond-in-the-Rough) | v3 | Main Mods |
+| 3 | [Always Raining in the Valley - Custom NPCs for East Scarp](https://www.nexusmods.com/stardewvalley/mods/9999) | v3 | Main Mods |
+| 4 | [Fashion Sense](https://www.nexusmods.com/stardewvalley/mods/9969) | v3 | Main Mods |
+| 5 | [Calcifer](https://www.nexusmods.com/stardewvalley/mods/20628) | v3 | Main Mods |
+| 6 | [(CP) HxW Farmer's Market Furniture - Core](https://www.nexusmods.com/stardewvalley/mods/18814) | v3 | Main Mods |
+| 7 | [(CP) HxW Farmers Market Furniture - Wildflour Set](https://www.nexusmods.com/stardewvalley/mods/21767) | v3 | Main Mods |
+| 8 | [(CP) HxW Farmer's Market Furniture - Fishmonger and Butcher Set](https://www.nexusmods.com/stardewvalley/mods/9994) | v3 | Main Mods |
+| 9 | [(CP) HxW Farmer's Market Furniture - Bakery Set](https://www.nexusmods.com/stardewvalley/mods/9992) | v3 | Main Mods |
+| 10 | [(CP) HxW Greenhouse Furniture](https://www.nexusmods.com/stardewvalley/mods/16717) | v3 | Main Mods |
+| 11 | [(CP) HxW Bathroom Furniture](https://www.nexusmods.com/stardewvalley/mods/17665) | v3 | Main Mods |
+| 12 | [(CP) HxW Outdoor Furniture](https://www.nexusmods.com/stardewvalley/mods/16693) | v3 | Main Mods |
 
 ### **Removed Mods**
 
@@ -194,6 +216,7 @@ This post will list all the mods that were used in Slap Farm next playthrough an
 | 2 | [Even Better Artisan Good Icons for Cornucopia-MoreCrops](https://www.nexusmods.com/stardewvalley/mods/22377) | v2 | Retexture Mods | Conflict with MPS |
 | 3 | [Even Better Artisan Good Icons for Cornucopia-MoreFlowers](https://www.nexusmods.com/stardewvalley/mods/22437) | v2 | Retexture Mods | Conflict with MPS |
 | 4 | [Even Better Artisan Good Icons for SVE](https://www.nexusmods.com/stardewvalley/mods/9372) | v2 | Retexture Mods | Conflict with MPS |
+| 5 | [Lurking in the Dark - NPC Sen (East Scarp)](https://www.nexusmods.com/stardewvalley/mods/10770) | v3 | Main Mods | Replaced with Diamond in the Rough |
 
 ##  Footnote
 
