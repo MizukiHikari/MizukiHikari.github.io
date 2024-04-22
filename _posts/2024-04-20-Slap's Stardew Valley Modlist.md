@@ -4,7 +4,7 @@ date: 2024-04-20 10:20:00 +0700
 categories: [Games, Stardew Valley]
 tags: [stardewvalley]     # TAG names should always be lowercase
 image:
-  path: https://www.stardewvalley.net/wp-content/uploads/2018/12/1_1screenshot15.png
+  path: /assets/img/post/slapfarmcover.png
 
 ---
 
