@@ -8,7 +8,7 @@ image:
 
 ---
 
-This post will list all the mods that were used in Slap Farm next playthrough and detail all the changes made during the playthrough!
+ This post will list all the mods that were used in Slap Farm next playthrough and detail all the changes made during the playthrough!
 
 > Install SMAPI first -- <https://smapi.io/>
 {: .prompt-tip }
@@ -59,7 +59,7 @@ This post will list all the mods that were used in Slap Farm next playthrough an
 | 37 | [Faster Path Speed](https://www.nexusmods.com/stardewvalley/mods/9344) | Gameplay Mechanics |
 | 38 | [FauxCore](https://www.nexusmods.com/stardewvalley/mods/20618) | Frameworks |
 | 39 | [Forage of Ferngill](https://www.nexusmods.com/stardewvalley/mods/8828) | Crops |
-| 40 | [Friends Forever (1.6)](https://www.nexusmods.com/stardewvalley/mods/20702) | Gameplay Mechanics |
+| 40 | ~~Friends Forever (1.6)~~ | Gameplay Mechanics |
 | 41 | [Generic Mod Config Menu](https://www.nexusmods.com/stardewvalley/mods/5098) | Modding Tools |
 | 42 | [Grapes of Ferngill](https://www.nexusmods.com/stardewvalley/mods/8684) | Crops |
 | 43 | [Horse Overhaul - Thin - Faster - Saddle Bags - Friendship](https://www.nexusmods.com/stardewvalley/mods/7911) | Pets / Horses |
@@ -90,12 +90,12 @@ This post will list all the mods that were used in Slap Farm next playthrough an
 | 68 | [Prismatic Tools Continued](https://www.nexusmods.com/stardewvalley/mods/21450) | Gameplay Mechanics |
 | 69 | [Producer Framework Mod](https://www.nexusmods.com/stardewvalley/mods/4970) | Frameworks |
 | 70 | [Professor Jasper Thomas](https://www.nexusmods.com/stardewvalley/mods/5599) | New Characters |
-| 71 | [Ridgeside Village & The Music of Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286) | Expansions |
+| 71 | ~~Ridgeside Village & The Music of Ridgeside Village~~ | Expansions |
 | 72 | [Romanceable Rasmodius Redux Revamped(RRRR)(SVE Required)](https://www.nexusmods.com/stardewvalley/mods/16893) | Characters |
 | 73 | [Seasonal Cute Characters for East Scarp (Base, Jasper, Joja Clerks, Smoluanu)](https://www.nexusmods.com/stardewvalley/mods/16045) | Characters |
 | 74 | [Seasonal Outfits - Slightly Cuter Aesthetic](https://www.nexusmods.com/stardewvalley/mods/5450) | Characters |
 | 75 | [Seasonal Outfits - Slightly Cuter Aesthetic for SVE](https://www.nexusmods.com/stardewvalley/mods/5969) | Characters |
-| 76 | [Seasonal Outfits for Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/18202) | Characters |
+| 76 | ~~Seasonal Outfits for Ridgeside Village~~ | Characters |
 | 77 | [Skull Cavern Elevator](https://www.nexusmods.com/stardewvalley/mods/963) | Gameplay Mechanics |
 | 78 | [SMAPI](https://www.nexusmods.com/stardewvalley/mods/2400) | ModLoader |
 | 79 | [SpaceCore](https://www.nexusmods.com/stardewvalley/mods/1348) | Frameworks |
@@ -109,7 +109,7 @@ This post will list all the mods that were used in Slap Farm next playthrough an
 | 87 | [UI Info Suite 2](https://github.com/Annosz/UIInfoSuite2/releases) | User Interface |
 | 88 | [Unique Children](https://www.nexusmods.com/stardewvalley/mods/6278) | Characters |
 | 89 | [Visible Fish - see catchable fish in the water](https://www.nexusmods.com/stardewvalley/mods/8897) | Visuals and Graphics |
-| 90 | [Wedding Reception Portraits for RSV](https://www.nexusmods.com/stardewvalley/mods/12848) | Visuals and Graphics |
+| 90 | ~~Wedding Reception Portraits for RSV~~ | Visuals and Graphics |
 | -- | *From here, the listed mods are the ones that were added later.* | -- |
 | 91 | [Better Junimos](https://www.nexusmods.com/stardewvalley/mods/2221)[^fn-nth-2] | Gameplay Mechanics |
 | 92 | [Diamond in the Rough](https://github.com/7thAxis/Diamond-in-the-Rough) | New Characters |
@@ -123,6 +123,11 @@ This post will list all the mods that were used in Slap Farm next playthrough an
 | 100 | [(CP) HxW Greenhouse Furniture](https://www.nexusmods.com/stardewvalley/mods/16717) | Furniture |
 | 101 | [(CP) HxW Bathroom Furniture](https://www.nexusmods.com/stardewvalley/mods/17665) | Furniture |
 | 102 | [(CP) HxW Outdoor Furniture](https://www.nexusmods.com/stardewvalley/mods/16693) | Furniture |
+| 103 | [sugarmaples' Cafe Clothes for Fashion Sense](https://www.nexusmods.com/stardewvalley/mods/23340) | Clothing |
+| 104 | [(CP)(FS) Churpy's Vivid Hairstyles - Flower Garden Set](https://www.nexusmods.com/stardewvalley/mods/19125) | Player |
+| 105 | [Date Night Redux](https://www.nexusmods.com/stardewvalley/mods/22714) | Events |
+| 106 | [No Friendship Decay - Reborn](https://www.nexusmods.com/stardewvalley/mods/22922)  | Gameplay Mechanics |
+| 107 | [Adventurer's Guild Expanded for 1.6](https://www.nexusmods.com/stardewvalley/mods/22591) | Expansions |
 
 ## Optional Mods
 
@@ -151,6 +156,8 @@ This post will list all the mods that were used in Slap Farm next playthrough an
 | 16 | [Skip Intro](https://www.nexusmods.com/stardewvalley/mods/533) | User Interface |
 | 17 | [Yet Another Harvest With Scythe Mod](https://www.nexusmods.com/stardewvalley/mods/2731) | Gameplay Mechanics |
 | 18 | [Zoom Level](https://www.nexusmods.com/stardewvalley/mods/7363) | User Interface |
+| -- | *From here, the listed mods are the ones that were added later.* | -- |
+| 19 | [Social Page Order Redux](https://www.nexusmods.com/stardewvalley/mods/23374) | User Interface |
 
 ## Retexture Mods
 
@@ -165,7 +172,7 @@ This post will list all the mods that were used in Slap Farm next playthrough an
 | 2 | [DaisyNiko's Earthy Interface](https://www.nexusmods.com/stardewvalley/mods/13658) | User Interface |
 | 3 | [DaisyNiko's Earthy Map for East Scarp](https://www.nexusmods.com/stardewvalley/mods/21963) | User Interface |
 | 4 | [DaisyNiko's Earthy Map for Ginger Island](https://www.nexusmods.com/stardewvalley/mods/21969) | User Interface |
-| 5 | [DaisyNiko's Earthy Map for RSV](https://www.nexusmods.com/stardewvalley/mods/21792) | User Interface |
+| 5 | ~~DaisyNiko's Earthy Map for RSV~~ | User Interface |
 | 6 | [DaisyNiko's Earthy Map for SVE](https://www.nexusmods.com/stardewvalley/mods/21788) | User Interface |
 | 7 | [DaisyNiko's Earthy Recolour](https://www.nexusmods.com/stardewvalley/mods/5255) | Visuals and Graphics |
 | 8 | ~~[Even Better Artisan Good Icons]~~ | User Interface |
@@ -184,6 +191,8 @@ This post will list all the mods that were used in Slap Farm next playthrough an
 | 21 | [Vanilla Tweaks - Producer Edition](https://www.nexusmods.com/stardewvalley/mods/21437) | Visuals and Graphics |
 | 22 | [Vanilla Tweaks - Warrior Edition](https://www.nexusmods.com/stardewvalley/mods/21435) | Visuals and Graphics |
 | 23 | [Way Back Pelican Town](https://www.nexusmods.com/stardewvalley/mods/7332) | Buildings |
+| -- | *From here, the listed mods are the ones that were added later.* | -- |
+| 24 | [DaisyNiko's Earthy Interiors](https://www.nexusmods.com/stardewvalley/mods/14790) | Visuals and Graphics |
 
 ---
 ## Modlist Update
@@ -207,6 +216,13 @@ This post will list all the mods that were used in Slap Farm next playthrough an
 | 10 | [(CP) HxW Greenhouse Furniture](https://www.nexusmods.com/stardewvalley/mods/16717) | v3 | Main Mods |
 | 11 | [(CP) HxW Bathroom Furniture](https://www.nexusmods.com/stardewvalley/mods/17665) | v3 | Main Mods |
 | 12 | [(CP) HxW Outdoor Furniture](https://www.nexusmods.com/stardewvalley/mods/16693) | v3 | Main Mods |
+| 13 | [DaisyNiko's Earthy Interiors](https://www.nexusmods.com/stardewvalley/mods/14790) | v4 | Retexture Mods |
+| 14 | [sugarmaples' Cafe Clothes for Fashion Sense](https://www.nexusmods.com/stardewvalley/mods/23340) | v4 | Main Mods |
+| 15 | [(CP)(FS) Churpy's Vivid Hairstyles - Flower Garden Set](https://www.nexusmods.com/stardewvalley/mods/19125) | v4 | Main Mods |
+| 16 | [Social Page Order Redux](https://www.nexusmods.com/stardewvalley/mods/23374) | v4 | Optional Mods |
+| 17 | [Date Night Redux](https://www.nexusmods.com/stardewvalley/mods/22714) | v4 | Main Mods |
+| 18 | [No Friendship Decay - Reborn](https://www.nexusmods.com/stardewvalley/mods/22922) | v4 | Main Mods |
+| 19 | [Adventurer's Guild Expanded for 1.6](https://www.nexusmods.com/stardewvalley/mods/22591) | v4 | Main Mods |
 
 ### **Removed Mods**
 
@@ -217,6 +233,11 @@ This post will list all the mods that were used in Slap Farm next playthrough an
 | 3 | [Even Better Artisan Good Icons for Cornucopia-MoreFlowers](https://www.nexusmods.com/stardewvalley/mods/22437) | v2 | Retexture Mods | Conflict with MPS |
 | 4 | [Even Better Artisan Good Icons for SVE](https://www.nexusmods.com/stardewvalley/mods/9372) | v2 | Retexture Mods | Conflict with MPS |
 | 5 | [Lurking in the Dark - NPC Sen (East Scarp)](https://www.nexusmods.com/stardewvalley/mods/10770) | v3 | Main Mods | Replaced with Diamond in the Rough |
+| 6 | [Ridgeside Village & The Music of Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286) | v4 | Main Mods | Added too much stuff |
+| 7 | [Seasonal Outfits for Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/18202) | v4 | Main Mods | Added too much stuff |
+| 8 | [Wedding Reception Portraits for RSV](https://www.nexusmods.com/stardewvalley/mods/12848) | v4 | Main Mods | Added too much stuff |
+| 9 | [DaisyNiko's Earthy Map for RSV](https://www.nexusmods.com/stardewvalley/mods/21792) | v4 | Retexture Mods | Added too much stuff |
+| 10 | [Friends Forever (1.6)](https://www.nexusmods.com/stardewvalley/mods/20702) | v4 | Main Mods | Broken and replaced with No Friendship Decay - Reborn |
 
 ##  Footnote
 
